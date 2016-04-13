@@ -1,0 +1,12 @@
+#problem {
+  padding: 20px;
+  font-size: 335%;
+}
+
+button {
+  font-size: x-large;
+}
+.inputGroup {
+  display: inline-block;
+  float: left;
+}
